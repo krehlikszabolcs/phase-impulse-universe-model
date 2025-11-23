@@ -1,232 +1,197 @@
-# Phase–Impulse Universe Model  
+# Phase–Impulse Universe Model (PIUM)  
+### Complete Cosmological Description (2025)  
 **Author:** Szabolcs Krehlik  
-**Date:** November 22, 2025  
-**Version:** 1.2 — Updated and Unified Description
-
-This document presents the full cosmological description of the Phase–Impulse Universe Model (PIUM).  
-The model reduces the functioning of the universe to a single underlying mechanism:  
-a **universal phase field** from which matter, gravity, spacetime and cosmic expansion all emerge  
-as **phase-impulse transitions**.
-
-**PIUM does not address the origin of the first impulse.**  
-The model begins at the moment when the initial impulse has already created the phase field.  
-From that point onward, the universe is driven by a **continuous, repeating universal impulse cycle**  
-that propagates outward like a clock signal, generating layered bubble-like interference fields.
+**Version:** PIUM – Complete 2025 Description
 
 ---
 
-## 1. Fundamental Principle: The Universe as a Phase–Interference Field
+## I. Introduction
 
-The basis of existence is a universal phase field:
+The **Phase–Impulse Universe Model (PIUM)** describes the universe as a single, continuous **phase–interference wave field**.  
+All physical phenomena — matter, spacetime, gravity, entanglement, dark matter, and cosmic expansion — emerge from the properties and evolution of this field.
 
-- composed of phase information,  
+PIUM intentionally does **not** address the metaphysical origin of the first impulse.  
+The model begins when the universal phase field already exists and the **recurring impulse mechanism** that generates spacetime is active.
+
+The foundational entity is the **phase field φ**, which oscillates, interferes with itself, and produces matter and spacetime through recurring impulse cycles.
+
+---
+
+## II. The Universe as a Phase–Interference Field
+
+In PIUM, the universe is:
+
+- wave-like at every point,  
 - continuously propagating,  
 - self-interfering,  
-- generating all observable structures.
+- structured by periodic impulses.
 
-**Space is the spatial extension of the wave.**  
-**Time is the evolution of the wave’s phase.**  
-**Spacetime is the trajectory of the wave’s phase pattern.**
+Matter is **not** a separate substance. It is:
 
----
+> a locally observed, repeating phase-segment of the universal wave field.
 
-## 2. The Universal Impulse Clock  
-### Bubble-Layer Expansion and Structural Rhythm of the Universe
-
-One of PIUM’s core concepts:
-
-### **The universe operates on a continuous, repeating universal impulse clock.**
-
-Each impulse:
-
-- generates a new outward-expanding wave layer,  
-- produces concentric, bubble-like interference sheets,  
-- establishes a dynamic multi-layered interference network.
-
-This mechanism:
-
-- maintains the structure of spacetime,  
-- creates redshift in older layers,  
-- explains the *apparent* acceleration of cosmic expansion.
-
-The impulse clock is not an energy source.  
-It is the **structural generator of spacetime**.
+A particle is the measurement-isolated appearance of a recurring phase point.  
+The wave carries the information;  
+the particle is the visible impulse of one phase slice.
 
 ---
 
-## 3. The Nullphase (Dark Matter Equivalent)
+## III. The Nullphase (φ = 0) and Dark Matter
 
-The nullphase (φ = 0) is **not** empty and not low-energy.
+The **nullphase** is the zero-amplitude crossing of the wave cycle:
 
-Instead:
+- amplitude = 0  
+- transition speed = maximal  
+- energy density = high  
+- detectability = zero (no amplitude deviation)
 
-- it has zero amplitude,  
-- but **maximum transition velocity**,  
-- making it the **most energetic point** of the wave cycle,  
-- yet invisible to amplitude-based detection.
+Thus the nullphase is **not** empty or passive.  
+It is the **energetic equilibrium state** of the wave.
 
-Thus, dark matter arises as:
+PIUM interprets **dark matter** as:
 
-### **the gravitational effect of the nullphase equilibrium**,  
-not a particle species.
+> the gravitational influence of the omnipresent nullphase state.
 
-The nullphase:
-
-- emits no light,  
-- reflects no light,  
-- yet produces clear gravitational influence,  
-- because all wave segments naturally flow back toward this equilibrium point.
-
-This explains:
-
-- galaxy rotation curves,  
-- gravitational discrepancies,  
-- stability of large-scale structures.
+It is always present, always gravitationally active, but invisible to amplitude-based detection.
 
 ---
 
-## 4. Particles as Phase–Impulse Segments
+## IV. Particles as Phase–Impulse Systems
 
 A particle is:
 
-- a recurrent **phase segment** of the wave,  
-- appearing locally as an impulse,  
-- carrying informational structure (its properties).
+- a recurring wave phase-segment,  
+- stabilized by local interference density,  
+- localized only when measured.
 
-Wave–particle duality emerges naturally:
+Particle properties (mass, quantization) arise from wave periodicity.
 
-- wave behavior = the full field,  
-- particle behavior = the measurement picking out one phase segment.
-
----
-
-## 5. Spin: A Phase-Slope Structure (Not Spatial Rotation)
-
-Spin is *not* rotation, axis, or geometric angular momentum.
-
-In PIUM:
-
-### **spin arises from the slope of the phase**,  
-the derivative across the phase segment.
-
-- rising phase branch ↔ one spin state  
-- falling phase branch ↔ opposite spin  
-- steepness ↔ magnitude of spin-related energy
-
-Formally linked to:
-
-- ∂φ/∂x  
-- ∂φ/∂t  
-
-Spin is thus a **wave-structural property**, not a separate quantum object.
+Measurement isolates one impulse;  
+the particle is the *repeated* reappearance of the deeper wave structure.
 
 ---
 
-## 6. Entanglement: Shared Wave Origin, Not Spatial Communication
+## V. Spin as Structural Phase Property
 
-Quantum entanglement is reinterpreted:
+Spin is **not** rotation and not spatial.  
+In PIUM, spin is:
 
-- two particles originate from the **same parent wave segment**,  
-- meaning they share identical initial phase structure (frequency, slope, orientation),  
-- any distortion affecting one segment is reflected in the other  
-  **because both remain structural expressions of the same underlying wave**.
+> the structural property of the local phase-slope and transition pattern.
 
-This is:
+Determined by:
 
-- instantaneous only in appearance,  
-- not spatial communication,  
-- purely structural unity.
+- rising or falling phase branch,  
+- steepness of the phase gradient,  
+- local wave frequency,  
+- ordering of phase transitions.
 
-Entanglement is therefore:
-
-### **shared wave origin → mirrored phase deformation**,  
-not “spooky action at a distance”.
+Different spin states correspond to different structural configurations of the same wave segment.
 
 ---
 
-## 7. Gravity as Phase-Density Flow Toward the Nullphase
+## VI. Entanglement as Structural Identity
 
-Gravity in PIUM:
+Entanglement is not communication, not nonlocal signaling.  
+Two entangled particles appear correlated because:
 
-### **is not a force,  
-not curvature of a fundamental metric,  
-but a flow of phase configurations toward the nullphase.**
+> they share the same underlying wave-structure identity.
+
+Changing one measurement point affects the *shared structure*,  
+so the partner reflects the same configuration.
+
+Entanglement is **structural unity**, not spatial interaction.
+
+---
+
+## VII. Gravity as Phase-Density Flow Toward the Nullphase
+
+Gravity in PIUM is not a force or pull.
+
+Gravity is:
+
+> the natural flow of wave configurations toward regions closer to the nullphase equilibrium.
 
 Where:
 
-- high phase displacement → strong tendency to return,  
-- high interference density → strong “flow” into the equilibrium.
+- high interference density = strong gravitational effect  
+- high nullphase presence = strong gravitational pull  
 
-This appears as gravity on macroscopic scales.
-
----
-
-## 8. Black Holes as Interference-Saturation Zones  
-### (Corrected Interpretation)
-
-A black hole is **not**:
-
-- an empty region,  
-- or dominated by nullphase.
-
-Instead:
-
-### **The interior is oversaturated with extreme interference.**
-
-The process:
-
-1. Matter/waves fall inward.  
-2. Inside, phase gradients become enormous.  
-3. Incoming waves collapse into **interference spikes**.  
-4. The interior becomes a hyper-dense turbulence of phase transitions.  
-5. Frequent nullphase crossings → huge gravitational effect.
-
-Thus:
-
-- the core is full of saturated wave chaos,  
-- not vacuum.
-
-The event horizon’s radiation (Hawking-like emission):
-
-- comes from the saturation boundary,  
-- where interference spikes eject unstable remnants.
-
-This aligns qualitatively with GR without singularities.
+Matter density corresponds to interference density; both shape the gravitational field.
 
 ---
 
-## 9. Expansion: Impulse-Driven Layer Propagation
+## VIII. Black Holes as Interference–Saturation Zones
 
-PIUM does not rely on dark energy.
+A black hole is:
 
-Expansion is explained by:
+> a region where the phase field becomes hyper-saturated with interference  
+> and phase, antiphase, and nullphase coexist in unstable overlap.
 
-- the universal impulse clock cycles,  
-- each creating new wave layers,  
-- older layers drifting in frequency (redshift),  
-- producing an **illusion** of accelerated expansion.
+### Key characteristics:
 
-Inflation:
+1. **Entering waves become structurally unstable.**  
+   Phase gradients steepen dramatically.
 
-- corresponds to an early spike in ∂φ/∂t during the initial propagation.
+2. **Nullphase transitions become extremely frequent.**  
+   This produces the overwhelming gravitational field.
+
+3. **At the event horizon, extreme amplitude maxima appear.**  
+   These are phase spikes detected as discrete impulse-like events.
+
+4. **The interior contains chaotic, over-saturated oscillation.**  
+   No wave breaks; the field stays continuous but unstable.
+
+5. **Horizon radiation is interference overflow**,  
+   where high-phase maxima escape the saturation boundary.
+
+This is PIUM’s analogue to Hawking radiation — without invoking wave fragmentation.
 
 ---
 
-## Summary
+## IX. Cosmic Expansion as Impulse-Layer Propagation
 
-PIUM provides a unified cosmological framework:
+The universe expands because:
 
-- **matter** = localized phase segment  
-- **spin** = phase-slope property  
-- **entanglement** = shared wave origin  
-- **gravity** = phase-density flow  
-- **black holes** = interference oversaturation  
-- **expansion** = impulse-driven propagation  
-- **dark matter** = nullphase equilibrium effect  
-- **time** = phase evolution  
-- **space** = wave extension
+> each universal impulse produces a new outward-propagating interference layer.
 
-Everything derives from a single field: **the universal phase field φ**.
+This creates an onion-like layered structure:
+
+- each impulse = new layer,  
+- layers propagate outward,  
+- spacetime *is* the propagation of these layers.
+
+The apparent accelerated expansion is:
+
+> an observational illusion caused by frequency shifts in older layers.
+
+---
+
+## X. Boundary of Explanation: The First Impulse
+
+PIUM does not attempt to explain:
+
+- the origin of the first impulse,  
+- the creation of the phase field,  
+- the nature beyond the “veil.”
+
+The model is mechanical, not metaphysical.
+
+---
+
+## XI. Summary of the PIUM Mechanism
+
+- The universe is one wave field.  
+- Particles are recurring phase impulses.  
+- Dark matter is the nullphase equilibrium.  
+- Gravity is phase-density flow.  
+- Entanglement is structural identity.  
+- Black holes are interference-saturation zones.  
+- Horizon radiation is interference overflow.  
+- Expansion is impulse-layer propagation.  
+- Space is wave extension.  
+- Time is phase evolution.
+
+All phenomena arise from the **universal phase field φ**.
 
 ---
 
