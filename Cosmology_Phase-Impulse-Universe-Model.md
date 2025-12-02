@@ -1,4 +1,4 @@
-# Phase–Impulse Universe Model (PIUM)  
+# Phase–Impulse Universe Model (PIUM)  -  LEGACY / EXPLORATORY
 ### Complete Cosmological Description (2025)  
 **Author:** Szabolcs Krehlik  
 **Version:** PIUM – Complete 2025 Description
