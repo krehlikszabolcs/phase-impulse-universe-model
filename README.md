@@ -1,4 +1,4 @@
-# Phase–Impulse Universe Model (PIUM)
+# Phase–Impulse Universe Model (PIUM) - LEGACY / EXPLORATORY
 **Author:** Szabolcs Krehlik  
 **Published:** 2025  
 **Repository:** phase-impulse-universe-model
