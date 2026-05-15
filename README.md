@@ -3,7 +3,7 @@
 ```md
 # PIUM — Phase Interference Universe Model
 
-A unified phase-field interpretive framework for matter, gravitation, galactic dynamics, large-scale coherence, and quantum correlation.
+A Unified Phase-Field Interpretive Framework
 
 Author: Szabolcs Krehlik  
 ORCID: 0009-0003-8623-7876
@@ -22,7 +22,7 @@ It introduces no new particles, forces, or empirical constants.
 Instead, PIUM provides a coherent interpretive layer connecting:
 
 - matter as phase-coherent closure,
-- gravitation as large-scale relaxation toward phase-neutral states,
+- gravitation as large-scale phase relaxation,
 - galactic dynamics as emergent field organization,
 - and quantum entanglement as non-separable phase-correlated structure.
 
@@ -36,12 +36,12 @@ Concise self-contained PIUM overview documents.
 
 Location:
 
-/Core
+`/Core`
 
 Files:
 
-- PIUM_Core_v1.7.pdf
-- PIUM_Core_v1.7_HUN.pdf
+- [PIUM_Core_v1.7.pdf](Core/PIUM_Core_v1.7.pdf)
+- [PIUM_Core_v1.7_HUN.pdf](Core/PIUM_Core_v1.7_HUN.pdf)
 
 ---
 
@@ -57,12 +57,12 @@ Complete extended framework documents including all major extensions:
 
 Location:
 
-/Extended
+`/Extended`
 
 Files:
 
-- PIUM_Extended_v1.3-v1.7_Supplementary.pdf
-- PIUM_Extended_v1.3-v1.7_Supplementary_HUN.pdf
+- [PIUM_Extended_v1.7_Supplementary.pdf](Extended/PIUM_Extended_v1.7_Supplementary.pdf)
+- [PIUM_Extended_v1.7_Supplementary_HUN.pdf](Extended/PIUM_Extended_v1.7_Supplementary_HUN.pdf)
 
 ---
 
@@ -74,16 +74,16 @@ Empirical galaxy rotation-curve re-analysis and morphology–dynamics interface 
 
 Location:
 
-/SPARC_Analysis
+`/SPARC_Analysis`
 
 ### Documentation
 
 Primary empirical and methodological papers.
 
-- PIUM_Rotation_Analysis.pdf
-- PIUM_SPARC_Outer_Rotation_Curve_Slope_Distribution_2026.pdf
-- SPARC_Reanalysis_Supplementary_Material.pdf
-- PIUM_Methodological.pdf
+- [PIUM_Rotation_Analysis.pdf](SPARC_Analysis/Documentation/PIUM_Rotation_Analysis.pdf)
+- [PIUM_SPARC_Outer_Rotation_Curve_Slope_Distribution_2026.pdf](SPARC_Analysis/Documentation/PIUM_SPARC_Outer_Rotation_Curve_Slope_Distribution_2026.pdf)
+- [SPARC_Reanalysis_Supplementary_Material.pdf](SPARC_Analysis/Documentation/SPARC_Reanalysis_Supplementary_Material.pdf)
+- [PIUM_Methodological.pdf](SPARC_Analysis/Documentation/PIUM_Methodological.pdf)
 
 ### Reproducibility_Data
 
@@ -102,16 +102,14 @@ Contains:
 Exploratory morphology–dynamics interface studies.
 
 Important:
-These files represent pilot-stage and non-finalized exploratory analyses.
+
+These files represent pilot-stage and non-finalized exploratory analyses.  
 They should not be interpreted as validated morphology–dynamics confirmation.
 
 Contains:
 
-- PIUM_Kappa_Screening_Report.pdf
-- PIUM_Kappa_Screening_Table.csv
-- Kappa_Results.csv
-- Clean_Metadata.csv
-- Pitch_Master_Yuho2019_Clean.csv
+- [PIUM_Kappa_Screening_Report.pdf](SPARC_Analysis/Morphology_Pilot/PIUM_Kappa_Screening_Report.pdf)
+- [PIUM_Kappa_Screening_Table.csv](SPARC_Analysis/Morphology_Pilot/PIUM_Kappa_Screening_Table.csv)
 
 ### Theoretical_Interface
 
@@ -119,8 +117,7 @@ Field-based theoretical interface papers connecting PIUM phase-field interpretat
 
 Contains:
 
-- PIUM_A_Phase_Field_Description_of_Galactic_Dynamics.pdf
-- PIUM_Pitch_angle_theory_validation_framework.pdf
+- [PIUM_A_Phase_Field_Description_of_Galactic_Dynamics.pdf](SPARC_Analysis/Theoretical_Interface/PIUM_A_Phase_Field_Description_of_Galactic_Dynamics.pdf)
 
 ---
 
@@ -130,13 +127,27 @@ Low-ℓ CMB phase-coherence test framework using public Planck data.
 
 Location:
 
-/CMB_Analysis
+`/CMB_Analysis`
 
 Files:
 
-- PIUM_Low_l_CMB_Anomalies_and_Phase_Coherence.pdf
+- [PIUM_Low_l_CMB_Anomalies_and_Phase_Coherence.pdf](CMB_Analysis/PIUM_Low_l_CMB_Anomalies_and_Phase_Coherence.pdf)
 
 This work defines a reproducible non-tuned empirical framework for testing large-scale phase coherence in the low-multipole CMB regime.
+
+---
+
+## Galactic Dynamics
+
+Additional galaxy-dynamics and morphology linkage framework.
+
+Location:
+
+`/Galactic_Dynamics`
+
+Files:
+
+- [PIUM_Pitch_angle_theory_validation_framework.pdf](Galactic_Dynamics/PIUM_Pitch_angle_theory_validation_framework.pdf)
 
 ---
 
@@ -162,7 +173,7 @@ No claim of complete empirical confirmation is made.
 
 ## Zenodo
 
-Main PIUM releases and archival records are available on Zenodo.
+Main archival records and publication releases are available on Zenodo.
 
 ## SPARC Database
 
