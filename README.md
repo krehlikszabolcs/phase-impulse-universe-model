@@ -3,6 +3,8 @@
 ```md
 # PIUM — Phase Interference Universe Model
 
+An interpretive phase-field framework for matter, gravitation, galactic coherence, and quantum correlation.
+
 A Unified Phase-Field Interpretive Framework
 
 Author: Szabolcs Krehlik  
@@ -123,7 +125,7 @@ Contains:
 
 ## CMB Analysis
 
-Low-ℓ CMB phase-coherence test framework using public Planck data.
+Low-l CMB phase-coherence test framework using public Planck data.
 
 Location:
 
