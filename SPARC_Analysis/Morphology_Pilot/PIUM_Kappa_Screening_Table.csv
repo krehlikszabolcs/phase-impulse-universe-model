@@ -1,0 +1,80 @@
+Galaxy,Inc_deg,D_Mpc,Rdisk_kpc,Rdisk_arcsec,Vflat_kms,outer_slope_ols,kappa_screening,screening_group
+D631-7,59.0,7.72,0.7,18.702784974093262,57.7,0.483362819775646,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+DDO154,64.0,4.04,0.37,18.890606435643566,47.0,0.4276669720108098,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+DDO161,70.0,7.5,1.22,33.552440000000004,66.3,0.3745526813266936,eligible,Eligible for first-pass κ measurement
+ESO116-G012,74.0,13.0,1.51,23.958473076923077,109.1,0.1005789535075871,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+ESO563-G021,83.0,60.8,5.45,18.489214638157897,314.6,0.0042350099103293,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+F563-1,25.0,48.9,3.52,14.847705521472394,109.9,0.1725514955061743,"face-on geometry (Inc < 30°); small apparent disk (Rdisk_app < 30"")",Excluded: face-on and too small
+IC2574,75.0,3.91,2.78,146.6538874680307,66.4,0.6135379193103089,eligible,Eligible for first-pass κ measurement
+IC4202,90.0,100.4,4.78,9.82018625498008,242.6,-0.0223627131726569,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+NGC0100,89.0,13.5,1.66,25.362955555555555,88.1,0.2288563605757729,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+NGC0247,74.0,3.7,3.74,208.4948918918919,104.9,0.1905534643789022,eligible,Eligible for first-pass κ measurement
+NGC0289,46.0,20.8,6.74,66.83779326923077,163.0,0.0095546735330387,eligible,Eligible for first-pass κ measurement
+NGC0300,42.0,2.08,1.75,173.54026442307693,93.3,0.1737426151506342,eligible,Eligible for first-pass κ measurement
+NGC0891,90.0,9.91,2.55,53.07525227043391,216.1,-0.0872941811883934,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC1003,67.0,11.4,1.61,29.130407894736848,109.8,0.1300330612747103,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC1090,64.0,37.0,3.53,19.678795945945943,164.4,-0.0593589619608166,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC2403,63.0,3.16,1.39,90.7304905063291,131.2,0.1017237345368631,eligible,Eligible for first-pass κ measurement
+NGC2683,80.0,9.81,2.18,45.836666666666666,154.0,-0.2084883659397517,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC2841,76.0,14.1,3.64,53.248553191489364,284.8,-0.0812248236824873,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC2903,66.0,6.6,2.33,72.81779545454546,184.6,-0.1130305480850379,eligible,Eligible for first-pass κ measurement
+NGC2915,56.0,4.06,0.55,27.942302955665028,83.5,0.0951302447510109,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC3109,70.0,1.33,1.56,241.93488721804513,66.2,0.4505057990697587,eligible,Eligible for first-pass κ measurement
+NGC3198,73.0,13.8,3.14,46.93276086956522,150.1,-0.0163565567804401,eligible,Eligible for first-pass κ measurement
+NGC3521,75.0,7.7,2.4,64.29038961038961,213.7,-0.0342092831837377,eligible,Eligible for first-pass κ measurement
+NGC3726,53.0,18.0,3.4,38.961166666666664,168.0,0.0348941316502146,eligible,Eligible for first-pass κ measurement
+NGC3741,70.0,3.21,0.2,12.851401869158877,50.1,0.3777662324251091,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC3769,70.0,18.0,3.38,38.73198333333333,118.6,-0.0365817772990541,eligible,Eligible for first-pass κ measurement
+NGC3917,79.0,18.0,2.63,30.137608333333333,135.9,0.0562249496769381,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC3992,56.0,23.7,4.96,43.16769620253165,241.0,-0.1174278492004831,eligible,Eligible for first-pass κ measurement
+NGC4013,89.0,18.0,3.53,40.45085833333333,172.9,-0.0576489082892517,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC4088,69.0,18.0,2.58,29.56465,171.7,-0.0634254261707534,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC4100,73.0,18.0,2.15,24.637208333333334,158.2,-0.1669863099556416,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC4157,82.0,18.0,2.32,26.585266666666666,184.7,-0.0618454173927194,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+NGC4183,82.0,18.0,2.79,31.971075,110.6,-0.0006321861682223,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC4214,15.0,2.87,0.51,36.653362369337984,80.1,0.076452461118062,face-on geometry (Inc < 30°),Excluded: face-on geometry
+NGC4217,86.0,18.0,2.94,33.68995,181.3,-0.1114471878654987,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC4559,67.0,9.0,2.1,48.1285,121.2,0.0917278658646074,eligible,Eligible for first-pass κ measurement
+NGC5033,66.0,15.7,5.16,67.79155414012739,194.2,-0.1485873626041598,eligible,Eligible for first-pass κ measurement
+NGC5055,55.0,9.9,3.2,66.67151515151515,179.0,-0.109976838700355,eligible,Eligible for first-pass κ measurement
+NGC5371,53.0,39.7,7.44,38.6552040302267,209.5,-0.2069575298197987,eligible,Eligible for first-pass κ measurement
+NGC5585,51.0,7.06,1.53,44.70048866855524,90.3,0.1757429797112572,eligible,Eligible for first-pass κ measurement
+NGC5907,88.0,17.3,5.34,63.66792485549133,215.0,-0.0753915838950807,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+NGC5985,60.0,39.7,7.01,36.421099496221665,293.6,-0.0022664846445345,eligible,Eligible for first-pass κ measurement
+NGC6015,60.0,17.0,2.3,27.906441176470587,154.1,0.0316839837501592,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC6503,74.0,6.26,2.16,71.17130990415336,116.3,-0.0054064621294685,eligible,Eligible for first-pass κ measurement
+NGC6674,54.0,51.2,6.04,24.33282421875,241.3,-0.0873412102187079,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+NGC6946,38.0,5.52,2.44,91.17510869565217,158.9,-0.1332943987326888,eligible,Eligible for first-pass κ measurement
+NGC7331,75.0,14.7,5.02,70.43879591836735,239.0,-0.0017658419351395,eligible,Eligible for first-pass κ measurement
+NGC7793,47.0,3.61,1.21,69.13591412742382,0.0,-0.1412348051775395,eligible,Eligible for first-pass κ measurement
+NGC7814,90.0,14.4,2.54,36.38285416666667,218.9,-0.0659359591501644,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+UGC00128,57.0,64.5,5.95,19.027546511627907,129.3,0.0339990979908808,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC02487,36.0,69.1,7.89,23.55182127351664,332.0,-0.1164102212030956,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC02885,64.0,80.6,11.4,29.173957816377172,289.5,0.0945254851929525,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC02916,50.0,65.4,6.15,19.396479357798164,182.7,-0.2171071756357316,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC02953,50.0,16.5,3.55,44.378227272727266,264.9,-0.1165138692164272,eligible,Eligible for first-pass κ measurement
+UGC03205,67.0,50.0,3.19,13.159707,219.6,-0.0401749291176269,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC03546,55.0,28.7,3.79,27.238479094076652,196.9,-0.0738438759423603,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC03580,63.0,20.7,2.43,24.21371739130435,126.2,0.1543078384759204,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC05253,37.0,22.9,8.07,72.68814628820961,213.7,-0.1906671977375318,eligible,Eligible for first-pass κ measurement
+UGC05716,54.0,21.3,1.14,11.039535211267605,73.1,0.2193976962542426,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC05721,61.0,6.18,0.38,12.682961165048544,79.7,0.0548657070450106,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC05986,90.0,8.63,1.67,39.91454808806488,113.0,-0.0663907280361377,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+UGC06446,51.0,12.0,1.49,25.611237499999998,82.2,0.1006855290627026,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC06614,36.0,88.7,5.1,11.85965614430665,199.8,0.1242629137815806,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC06786,64.0,29.3,3.6,25.343139931740613,219.4,-0.0491586918838173,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC06787,66.0,21.3,5.37,52.00202112676057,248.1,0.1678018918356392,eligible,Eligible for first-pass κ measurement
+UGC06983,49.0,18.0,3.21,36.783924999999996,109.0,-0.0249523004161046,eligible,Eligible for first-pass κ measurement
+UGC07125,90.0,19.8,3.38,35.21089393939394,65.2,0.1241630894328502,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+UGC07603,78.0,4.7,0.53,23.259670212765958,61.6,0.1690379632780302,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+UGC08286,90.0,6.5,1.05,33.31973076923077,82.4,0.1225128669775174,edge-on geometry (Inc > 75°),Excluded: edge-on geometry
+UGC08490,50.0,4.65,0.67,29.71990322580645,78.6,0.0214086901950045,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC08550,90.0,6.7,0.45,13.853619402985075,56.9,0.1586991537309327,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+UGC08699,73.0,39.3,3.09,16.21778244274809,182.4,-0.0381786194644565,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC09037,65.0,83.6,4.28,10.559978468899523,152.3,0.0639743328523854,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC09133,53.0,57.1,6.97,25.178056917688266,226.8,-0.1138162846791406,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC11455,90.0,78.6,5.93,15.561723282442749,269.4,-0.0934493836343983,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+UGC11914,31.0,16.9,2.44,29.78027218934911,288.1,0.1616929714892421,"small apparent disk (Rdisk_app < 30"")",Excluded: too small on sky
+UGC12506,86.0,100.6,7.38,15.1315675944334,234.0,-0.1106045717544681,"edge-on geometry (Inc > 75°); small apparent disk (Rdisk_app < 30"")",Excluded: edge-on and too small
+UGC12732,39.0,13.2,1.98,30.939749999999997,0.0,0.2725247493503248,eligible,Eligible for first-pass κ measurement
+UGCA444,78.0,0.98,0.83,174.69382653061223,37.0,0.5462010636563299,edge-on geometry (Inc > 75°),Excluded: edge-on geometry

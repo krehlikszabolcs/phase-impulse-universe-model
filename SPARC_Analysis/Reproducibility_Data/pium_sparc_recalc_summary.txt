@@ -1,0 +1,42 @@
+
+PIUM SPARC RECALCULATION SUMMARY
+Date: 2026-03-07
+
+Input galaxies: 175
+Quality counts: Q1=99, Q2=64, Q3=12
+Main-analysis acceptance rule: Q<=2 and N_outer_valid>=8 with outer region R > 2.5 * Rdisk
+
+Accepted galaxies: 79
+Excluded galaxies: 96
+Excluded for Q=3: 12
+Excluded for insufficient outer points: 93
+
+Outer slope statistics (accepted sample, OLS in log10-log10 space):
+Mean   = 0.044600
+Median = -0.000632
+Std    = 0.176476
+Min    = -0.217107
+Max    = 0.613538
+
+Category counts (thresholds: declining < -0.05, flat [-0.05,0.05], rising > 0.05):
+Declining = 28
+Flat      = 18
+Rising    = 33
+
+Slope-Vflat relation (accepted sample, Vflat>0):
+Pearson r  = -0.625803, p = 1.160e-09
+Spearman ρ = -0.660607, p = 6.272e-11
+
+RAR summary (accepted sample):
+Points     = 2338
+Slope      = 0.659997
+Intercept  = 1.297227
+Corr r     = 0.953082
+RMS scatter= 0.169158
+
+Sensitivity summary:
+     method  n     mean    median      std  declining  flat  rising
+Rgt2.0Rdisk 87 0.073798  0.038432 0.180948         25    21      41
+Rgt2.5Rdisk 79 0.044600 -0.000632 0.176476         28    18      33
+Rgt3.0Rdisk 65 0.007398 -0.011999 0.154187         27    17      21
+  last40pct 66 0.035615 -0.000872 0.202330         22    23      21
